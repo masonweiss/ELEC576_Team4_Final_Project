@@ -1,0 +1,4 @@
+Test Metrics:
+Average MSE: 0.0399
+Average PSNR: 14.49 dB
+Average SSIM: 0.4723

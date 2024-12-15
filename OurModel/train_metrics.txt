@@ -1,0 +1,200 @@
+Epoch 1/50:
+Training Loss: 0.0854
+Validation Loss: 0.0879
+Learning Rate: 0.001000
+Epoch 2/50:
+Training Loss: 0.0454
+Validation Loss: 0.0686
+Learning Rate: 0.001000
+Epoch 3/50:
+Training Loss: 0.0441
+Validation Loss: 0.0671
+Learning Rate: 0.001000
+Epoch 4/50:
+Training Loss: 0.0428
+Validation Loss: 0.0702
+Learning Rate: 0.001000
+Epoch 5/50:
+Training Loss: 0.0416
+Validation Loss: 0.0674
+Learning Rate: 0.001000
+Epoch 6/50:
+Training Loss: 0.0410
+Validation Loss: 0.0680
+Learning Rate: 0.001000
+Epoch 7/50:
+Training Loss: 0.0406
+Validation Loss: 0.0664
+Learning Rate: 0.001000
+Epoch 8/50:
+Training Loss: 0.0400
+Validation Loss: 0.0676
+Learning Rate: 0.001000
+Epoch 9/50:
+Training Loss: 0.0399
+Validation Loss: 0.0652
+Learning Rate: 0.001000
+Epoch 10/50:
+Training Loss: 0.0394
+Validation Loss: 0.0690
+Learning Rate: 0.001000
+Epoch 11/50:
+Training Loss: 0.0391
+Validation Loss: 0.0663
+Learning Rate: 0.001000
+Epoch 12/50:
+Training Loss: 0.0386
+Validation Loss: 0.0637
+Learning Rate: 0.001000
+Epoch 13/50:
+Training Loss: 0.0382
+Validation Loss: 0.0670
+Learning Rate: 0.001000
+Epoch 14/50:
+Training Loss: 0.0380
+Validation Loss: 0.0646
+Learning Rate: 0.001000
+Epoch 15/50:
+Training Loss: 0.0373
+Validation Loss: 0.0717
+Learning Rate: 0.001000
+Epoch 16/50:
+Training Loss: 0.0368
+Validation Loss: 0.0720
+Learning Rate: 0.001000
+Epoch 17/50:
+Training Loss: 0.0366
+Validation Loss: 0.0690
+Learning Rate: 0.001000
+Epoch 18/50:
+Training Loss: 0.0364
+Validation Loss: 0.0669
+Learning Rate: 0.000500
+Epoch 19/50:
+Training Loss: 0.0358
+Validation Loss: 0.0631
+Learning Rate: 0.000500
+Epoch 20/50:
+Training Loss: 0.0357
+Validation Loss: 0.0655
+Learning Rate: 0.000500
+Epoch 21/50:
+Training Loss: 0.0357
+Validation Loss: 0.0656
+Learning Rate: 0.000500
+Epoch 22/50:
+Training Loss: 0.0355
+Validation Loss: 0.0659
+Learning Rate: 0.000500
+Epoch 23/50:
+Training Loss: 0.0355
+Validation Loss: 0.0652
+Learning Rate: 0.000500
+Epoch 24/50:
+Training Loss: 0.0354
+Validation Loss: 0.0686
+Learning Rate: 0.000500
+Epoch 25/50:
+Training Loss: 0.0354
+Validation Loss: 0.0680
+Learning Rate: 0.000250
+Epoch 26/50:
+Training Loss: 0.0349
+Validation Loss: 0.0676
+Learning Rate: 0.000250
+Epoch 27/50:
+Training Loss: 0.0349
+Validation Loss: 0.0662
+Learning Rate: 0.000250
+Epoch 28/50:
+Training Loss: 0.0348
+Validation Loss: 0.0656
+Learning Rate: 0.000250
+Epoch 29/50:
+Training Loss: 0.0348
+Validation Loss: 0.0668
+Learning Rate: 0.000250
+Epoch 30/50:
+Training Loss: 0.0348
+Validation Loss: 0.0655
+Learning Rate: 0.000250
+Epoch 31/50:
+Training Loss: 0.0347
+Validation Loss: 0.0651
+Learning Rate: 0.000125
+Epoch 32/50:
+Training Loss: 0.0344
+Validation Loss: 0.0638
+Learning Rate: 0.000125
+Epoch 33/50:
+Training Loss: 0.0344
+Validation Loss: 0.0657
+Learning Rate: 0.000125
+Epoch 34/50:
+Training Loss: 0.0344
+Validation Loss: 0.0669
+Learning Rate: 0.000125
+Epoch 35/50:
+Training Loss: 0.0343
+Validation Loss: 0.0659
+Learning Rate: 0.000125
+Epoch 36/50:
+Training Loss: 0.0343
+Validation Loss: 0.0681
+Learning Rate: 0.000125
+Epoch 37/50:
+Training Loss: 0.0342
+Validation Loss: 0.0648
+Learning Rate: 0.000063
+Epoch 38/50:
+Training Loss: 0.0340
+Validation Loss: 0.0652
+Learning Rate: 0.000063
+Epoch 39/50:
+Training Loss: 0.0340
+Validation Loss: 0.0653
+Learning Rate: 0.000063
+Epoch 40/50:
+Training Loss: 0.0340
+Validation Loss: 0.0671
+Learning Rate: 0.000063
+Epoch 41/50:
+Training Loss: 0.0339
+Validation Loss: 0.0650
+Learning Rate: 0.000063
+Epoch 42/50:
+Training Loss: 0.0339
+Validation Loss: 0.0666
+Learning Rate: 0.000063
+Epoch 43/50:
+Training Loss: 0.0339
+Validation Loss: 0.0660
+Learning Rate: 0.000031
+Epoch 44/50:
+Training Loss: 0.0338
+Validation Loss: 0.0664
+Learning Rate: 0.000031
+Epoch 45/50:
+Training Loss: 0.0337
+Validation Loss: 0.0668
+Learning Rate: 0.000031
+Epoch 46/50:
+Training Loss: 0.0337
+Validation Loss: 0.0649
+Learning Rate: 0.000031
+Epoch 47/50:
+Training Loss: 0.0336
+Validation Loss: 0.0660
+Learning Rate: 0.000031
+Epoch 48/50:
+Training Loss: 0.0336
+Validation Loss: 0.0660
+Learning Rate: 0.000031
+Epoch 49/50:
+Training Loss: 0.0336
+Validation Loss: 0.0659
+Learning Rate: 0.000016
+Epoch 50/50:
+Training Loss: 0.0335
+Validation Loss: 0.0658
+Learning Rate: 0.000016
