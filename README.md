@@ -24,5 +24,5 @@ Mason Weiss - mw103@rice.edu
 
 
 ### Reference
-The `IRFormer/` directory including our "control"/SOTA model for RGB-to-IR image translation was largely based on the code available at the following [repository]([url](https://github.com/CXH-Research/IRFormer)). The README and License from CXH Research are retained in that folder.
+The `IRFormer/` directory including our "control"/SOTA model for RGB-to-IR image translation was largely based on the code available at the following [repository](https://github.com/CXH-Research/IRFormer). The README and License from CXH Research are retained in that folder.
 
